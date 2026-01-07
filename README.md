@@ -3,7 +3,7 @@ Decision Intelligence 4 Health
 
 ## Examples
 
-### Decision Analysis chapters from (Petitti 2000)
+### Decision Analysis chapters 2 and 9 (Petitti 2000)
 Source: Petitti, Diana B. Meta-Analysis, Decision Analysis, and Cost-Effectiveness Analysis: Methods for Quantitative Synthesis in Medicine. 2nd ed. Monographs in Epidemiology and Biostatistics, v. 31. Oxford University Press, 2000. https://doi.org/10.1093/acprof:oso/9780195133646.001.0001.
 
 
