@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{fontspec}
+\usepackage{unicode-math} % For setting math fonts
+\setmainfont{Comic Neue} % Compile with lualatex 
+\setmathfont{Latin Modern Math} 
+\usepackage[table,dvipsnames]{xcolor}
+\definecolor{annals}{RGB}{240,251,247}
+\begin{document}
+\thispagestyle{empty}
+
+\begin{table}
+  \centering
+%  \rowcolors{1}{annals!0}{annals!100}
+  \setcounter{table}{0} % Set ngives 3
+  \caption{Bayes' theorem components}
+  \label{tab:lab}    
+  \begin{tabular}{@{}lcc@{}}
+    \toprule
+    Decision Node&\multicolumn{2}{c}{Chance Node}\\
+      & Event 1 & Event 2\\
+    \midrule
+    Option 1 & $p_{11}$ & $1-p_{11}$\\
+    Option 2 & $p_{21}$ & $1-p_{21}$\\
+    \bottomrule
+  \end{tabular}
+\end{table}
+\end{document}
+
+
+%% pdfcrop latex_comicneue_table1_v2.pdf
+%%%% Imagemagick conversion
+%% magick -density 600 latex_comicneue_table1_v2-crop.pdf -quality 100 latex_comicneue_table1_v2-crop.png
+
+
+% Local Variables:
+% TeX-engine: luatex
+% End:

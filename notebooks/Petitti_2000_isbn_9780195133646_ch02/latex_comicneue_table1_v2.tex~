@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{fontspec}
+\usepackage{unicode-math} % For setting math fonts
+\setmainfont{Comic Neue} % Compile with lualatex 
+\setmathfont{Latin Modern Math} 
+\usepackage[table,dvipsnames]{xcolor}
+\definecolor{annals}{RGB}{240,251,247}
+\begin{document}
+\thispagestyle{empty}
+
+\begin{table}
+  \centering
+%  \rowcolors{1}{annals!0}{annals!100}
+  \setcounter{table}{0} % Set ngives 3
+  \caption{Bayes' theorem components}
+  \label{tab:lab}    
+  \begin{tabular}{@{}lll@{}} \toprule
+    Reasoning (r) & Probability & Description\\ \midrule
+    Causal/predictive r.\ leads to \ldots & \(P(H)\) & Prior probability (margin probability of H)\\
+              & \(P(E \mid H)\) & Likelihood (TP {[}sensitivity{]}, FP {[}1-specificity{]})\\
+    Evidential/diagnostic r.\ leads to \ldots & \(P(E)\) & Marginal probability of E\\
+              & \(P(H \mid E)\) & Posterior probability (conditional probability)\\ \bottomrule
+  \end{tabular}
+\end{table}
+\end{document}
+
+
+%% pdfcrop latex_comicneue_table1_v2.pdf
+%%%% Imagemagick conversion
+%% magick -density 600 latex_comicneue_table1_v2-crop.pdf -quality 100 latex_comicneue_table1_v2-crop.png
+
+
+% Local Variables:
+% TeX-engine: luatex
+% End:
