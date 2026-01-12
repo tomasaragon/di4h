@@ -31,7 +31,7 @@ To learn more visit: TEAM Public Health
 
 Figure depicts the DQ framework for Decision Intelligence 4 Health.
 
-<img src="https://github.com/tomasaragon/di4h/blob/main/files/img_di4health_dq_light.png" width="600" alt="Decision Intelligence 4 Health framework"/>
+<img src="https://github.com/tomasaragon/di4h/blob/main/files/img_di4health_dq_light.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
 
 On this page we focus on learning basic public health decision analysis using popular data science programming languages (Julia, Python, and R).
 
