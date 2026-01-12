@@ -1,12 +1,12 @@
 # Decision Intelligence 4 Health
 Maintained by [Tomás Aragón](https://substack.com/@tomasaragon)
 
-Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school in the 1980s, when I was introduced to the nascent field “decision analysis,”1 I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:2
+Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school in the 1980s, when I was introduced to the nascent field "decision analysis,"[^1] I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:[^2]
 
 > "... there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things."
-
+>
 > "... your decision-making is the single most important thing you have control over that will help you achieve your goals."
-
+>
 > Annie Duke, How to Decide: Simple Tools for Making Better Choices. Penguin Publishing Group, 2020.
 
 In spite of its importance, decision quality is rarely formally taught. This is a shame! Some of reasons include the complex, trans-disciplinary nature of descriptive and normative decision theories.
@@ -65,3 +65,7 @@ Source: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatri
 ### Individual articles
 1. Owens, D. K., R. D. Shachter, and R. F. Nease. “Representation and Analysis of Medical Decision Problems with Influence Diagrams.” Medical Decision Making: An International Journal of the Society for Medical Decision Making 17, no. 3 (1997): 241–62. https://doi.org/10.1177/0272989X9701700301.
 2. Nease, R. F., and D. K. Owens. “Use of Influence Diagrams to Structure Medical Decisions.” Medical Decision Making: An International Journal of the Society for Medical Decision Making 17, no. 3 (1997): 263–75. https://doi.org/10.1177/0272989X9701700302.
+
+## Footnotes
+[^1]: Weinstein, Milton C., and Harvey V. Fineberg. _Clinical Decision Analysis_. Saunders, 1980.
+[^2]: Duke, Annie. _How to Decide: Simple Tools for Making Better Choices_. Penguin Publishing Group, 2020. https://www.annieduke.com/books/.
