@@ -3,11 +3,11 @@ Maintained by [Tomás Aragón](https://substack.com/@tomasaragon)
 
 Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school in the 1980s, when I was introduced to the nascent field "decision analysis,"[^1] I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:[^2]
 
-> "... there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things."
+> _"... there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things."_
 >
-> "... your decision-making is the single most important thing you have control over that will help you achieve your goals."
+> _"... your decision-making is the single most important thing you have control over that will help you achieve your goals."_
 >
-> Annie Duke, How to Decide: Simple Tools for Making Better Choices. Penguin Publishing Group, 2020.
+> Annie Duke, _How to Decide: Simple Tools for Making Better Choices_. Penguin Publishing Group, 2020.
 
 In spite of its importance, decision quality is rarely formally taught. This is a shame! Some of reasons include the complex, trans-disciplinary nature of descriptive and normative decision theories.
 
@@ -31,7 +31,7 @@ To learn more visit: TEAM Public Health
 
 Figure depicts the DQ framework for Decision Intelligence 4 Health.
 
-<img src="https://github.com/tomasaragon/di4h/blob/main/files/img_di4health_dq_light.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
+<img src="https://github.com/tomasaragon/di4h/blob/main/images/img_di4health_dq_light.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
 
 On this page we focus on learning basic public health decision analysis using popular data science programming languages (Julia, Python, and R).
 
