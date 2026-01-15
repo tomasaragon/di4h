@@ -6,11 +6,12 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("booktabs" "") ("fontspec" "") ("unicode-math" "") ("xcolor" "table" "dvipsnames")))
+                     '(("amsmath" "") ("booktabs" "") ("fontspec" "") ("unicode-math" "") ("xcolor" "table" "dvipsnames")))
    (TeX-run-style-hooks
     "latex2e"
     "article"
     "art10"
+    "amsmath"
     "booktabs"
     "fontspec"
     "unicode-math"

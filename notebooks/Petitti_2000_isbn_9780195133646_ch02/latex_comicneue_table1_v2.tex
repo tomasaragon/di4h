@@ -1,4 +1,5 @@
 \documentclass{article}
+\usepackage{amsmath}
 \usepackage{booktabs}
 \usepackage{fontspec}
 \usepackage{unicode-math} % For setting math fonts
@@ -13,7 +14,7 @@
   \centering
 %  \rowcolors{1}{annals!0}{annals!100}
   \setcounter{table}{0} % Set ngives 3
-  \caption{Bayes' theorem components}
+  \caption{titlel}
   \label{tab:lab}    
   \begin{tabular}{@{}lcc@{}}
     \toprule
@@ -25,7 +26,22 @@
     \bottomrule
   \end{tabular}
 \end{table}
+
+\begin{align*}
+  P(H \mid E) &= \frac{P(H) P(E \mid H)}{P(E)}\\
+              &= \frac{P(H) P(E \mid H)}
+                { P(H) P(E \mid H) + P(H^c) P(E \mid H^c) }\\
+\end{align*}
+
+
+\begin{align*}
+  P(E) &= { P(H) P(E \mid H) + P(H^c) P(E \mid H^c) }\\
+\end{align*}
+
 \end{document}
+
+
+
 
 
 %% pdfcrop latex_comicneue_table1_v2.pdf
