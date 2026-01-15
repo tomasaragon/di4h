@@ -6,6 +6,7 @@
 \setmainfont{Comic Neue} % Compile with lualatex 
 \setmathfont{Latin Modern Math} 
 \usepackage[table,dvipsnames]{xcolor}
+\usepackage[skip=5pt]{caption}
 \definecolor{annals}{RGB}{240,251,247}
 \begin{document}
 \thispagestyle{empty}
@@ -14,29 +15,29 @@
   \centering
 %  \rowcolors{1}{annals!0}{annals!100}
   \setcounter{table}{0} % Set ngives 3
-  \caption{titlel}
+  \caption{Decision tree (FIGURE 3) as a 2x2 table}
   \label{tab:lab}    
   \begin{tabular}{@{}lcc@{}}
     \toprule
-    Decision Node&\multicolumn{2}{c}{Chance Node}\\
-      & Event 1 & Event 2\\
+    Decision Node&\multicolumn{2}{c}{Chance Node (Evidence)}\\
+    (Hypothesis)  & Event 1 $(E)$ & Event 2 $(E^c)$\\
     \midrule
-    Option 1 & $p_{11}$ & $1-p_{11}$\\
-    Option 2 & $p_{21}$ & $1-p_{21}$\\
+    Option 1 $(H)$& $ P( E \mid H ) $  & $ P( E^c \mid H) $\\
+    Option 2 $(H^c)$& $P(E \mid H^c)$ & $P(E^c \mid H^c) $\\
     \bottomrule
   \end{tabular}
 \end{table}
 
-\begin{align*}
-  P(H \mid E) &= \frac{P(H) P(E \mid H)}{P(E)}\\
-              &= \frac{P(H) P(E \mid H)}
-                { P(H) P(E \mid H) + P(H^c) P(E \mid H^c) }\\
-\end{align*}
+%\begin{align*}
+%  P(H \mid E) &= \frac{P(H) P(E \mid H)}{P(E)}\\
+%              &= \frac{P(H) P(E \mid H)}
+%                { P(H) P(E \mid H) + P(H^c) P(E \mid H^c) }\\
+%\end{align*}
 
 
-\begin{align*}
-  P(E) &= { P(H) P(E \mid H) + P(H^c) P(E \mid H^c) }\\
-\end{align*}
+%\begin{align*}
+%  P(E) &= { P(H) P(E \mid H) + P(H^c) P(E \mid H^c) }\\
+%XSCA\end{align*}
 
 \end{document}
 

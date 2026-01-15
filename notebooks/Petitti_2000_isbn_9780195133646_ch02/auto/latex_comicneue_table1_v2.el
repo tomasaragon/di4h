@@ -6,7 +6,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("amsmath" "") ("booktabs" "") ("fontspec" "") ("unicode-math" "") ("xcolor" "table" "dvipsnames")))
+                     '(("amsmath" "") ("booktabs" "") ("fontspec" "") ("unicode-math" "") ("xcolor" "table" "dvipsnames") ("caption" "skip=10pt" "skip=5pt")))
    (TeX-run-style-hooks
     "latex2e"
     "article"
@@ -15,7 +15,8 @@
     "booktabs"
     "fontspec"
     "unicode-math"
-    "xcolor")
+    "xcolor"
+    "caption")
    (LaTeX-add-labels
     "tab:lab")
    (LaTeX-add-xcolor-definecolors
