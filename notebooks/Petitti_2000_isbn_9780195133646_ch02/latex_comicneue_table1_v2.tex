@@ -15,11 +15,13 @@
   \centering
 %  \rowcolors{1}{annals!0}{annals!100}
   \setcounter{table}{0} % Set ngives 3
-  \caption{Decision tree (FIGURE 3) as a 2x2 table}
+  \caption{A decision tree as a 2x2 table}
   \label{tab:lab}    
   \begin{tabular}{@{}lcc@{}}
     \toprule
-    Decision Node&\multicolumn{2}{c}{Chance Node (Evidence)}\\
+    \textbf{Decision Node}&\multicolumn{2}{c}{\textbf{Chance Node}
+                            (Evidence)}\\
+    \cmidrule(lr){2-3}
     (Hypothesis)  & Event 1 $(E)$ & Event 2 $(E^c)$\\
     \midrule
     Option 1 $(H)$& $ P( E \mid H ) $  & $ P( E^c \mid H) $\\
