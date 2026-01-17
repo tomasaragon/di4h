@@ -5,7 +5,7 @@ Embedded in all journeys (life, learning, strategy, innovation, etc.) are the ch
 
 > _"... there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things."_
 >
-> _"... your decision-making is the single most important thing you have control over that will help you achieve your goals."_
+> _"... your decision-making is the single most important thing you have control over that will help you achieve your goals."
 >
 > Annie Duke, _How to Decide: Simple Tools for Making Better Choices_. Penguin Publishing Group, 2020.
 
