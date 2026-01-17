@@ -29,11 +29,11 @@ To learn more visit: TEAM Public Health
 - https://teampublichealth.substack.com/t/decisive 
 - https://teampublichealth.substack.com/p/decision-intelligence
 
-Decision professionals tackle and manage two dimensions of decision compatence: organizational complexity and analytical complexity (Figure 1). On this page we are focus on decision analysis using popular data science programming languages (Julia, Python, and R).
+Decision professionals tackle and manage two dimensions of decision competence: organizational complexity and analytical complexity (Figure 1). On this page we are focus on decision analysis using popular data science programming languages (Julia, Python, and R).
 
 <figure>
-<img src="https://github.com/tomasaragon/di4h/blob/main/images/di_decision_competence_complexity.png" width="500" alt="Decision Intelligence 4 Health framework"/>
-<figcaption>Figure 1</figcaption>
+<img src="https://github.com/tomasaragon/di4h/blob/main/images/di_decision_competence_complexity.png" width="680" alt="Decision Intelligence 4 Health framework"/>
+<figcaption>Figure 1: Two dimension of decision competence</figcaption>
 </figure>
 
 
