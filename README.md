@@ -20,18 +20,21 @@ For public health, Decision Intelligence 4 Health (DI4H) has
     - Thinking probabilistically
     - Structuring decisions
 - 4 DEEP decision challenges.
-    - Decision making under uncertainty
-    - Ethical decision making (moral trade-offs)
-    - Emergency and crisis decision making (high stakes with time constraints)
-    - Priority setting and resource allocation (budgetary/investment trade-offs)
+  - Decision making under uncertainty (information, data, knowledge, future)
+  - Ethical decision making (values, moral trade-offs, benefits outweigh risks)
+  - Emergency and crisis decision making (time constraints with high stakes)
+  - Priority setting and resource allocation (resource investment trade-offs)
 
 To learn more visit: TEAM Public Health
 - https://teampublichealth.substack.com/t/decisive 
 - https://teampublichealth.substack.com/p/decision-intelligence
 
-Figure depicts the DQ framework for Decision Intelligence 4 Health.
+Decision professionals tackle and manage two dimensions of decision compatence: organizational complexity and analytical complexity (Figure 1). On this page we are focus on decision analysis.
 
-<img src="https://github.com/tomasaragon/di4h/blob/main/images/img_di4health_dq_light2.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
+<figure>
+<img src="https://github.com/tomasaragon/di4h/blob/main/images/di_decision_competence_complexity.png" width="99%" alt="Decision Intelligence 4 Health framework"/>
+<figcaption>Figure 1</figcaption>
+</figure>
 
 On this page we focus on learning basic public health decision analysis using popular data science programming languages (Julia, Python, and R).
 
@@ -77,6 +80,11 @@ Source: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatri
 3. Hunink, M. G. Myriam. Decision Making in Health and Medicine. 2nd ed. With Milton C. Weinstein, Eve Wittenberg, Michael F. Drummond, Joseph S. Pliskin, John B. Wong, and Paul Glasziou. Cambridge University Press, 2014. https://doi.org/10.1017/CBO9781139506779.
 4. Briggs, Andrew Harvey, Karl Claxton, and Mark Sculpher. Decision Modelling for Health Economic Evaluation. Repr. [d. korr. Ausg. von 2007]. Handbooks in Health Economic Evaluation Series. Oxford Univ. Press, 2011.
 5. Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025.
+
+## Appendix
+Figure depicts the DQ framework for Decision Intelligence 4 Health.
+
+<img src="https://github.com/tomasaragon/di4h/blob/main/images/img_di4health_dq_light2.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
 
 ## Footnotes
 [^1]: Weinstein, Milton C., and Harvey V. Fineberg. _Clinical Decision Analysis_. Saunders, 1980.
