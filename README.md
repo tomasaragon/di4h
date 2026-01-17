@@ -71,6 +71,13 @@ Source: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatri
 6. Jalal, Hawre, Petros Pechlivanoglou, Eline Krijkamp, Fernando Alarid-Escudero, Eva Enns, and M. G. Myriam Hunink. “An Overview of R in Health Decision Sciences.” Medical Decision Making: An International Journal of the Society for Medical Decision Making 37, no. 7 (2017): 735–46. https://doi.org/10.1177/0272989X16686559.
 7. Williams, Claire, James D. Lewsey, Andrew H. Briggs, and Daniel F. Mackay. “Cost-Effectiveness Analysis in R Using a Multi-State Modeling Survival Analysis Framework: A Tutorial.” Medical Decision Making: An International Journal of the Society for Medical Decision Making 37, no. 4 (2017): 340–52. https://doi.org/10.1177/0272989X16651869.
 
+### Recommended books
+1. Duke, Annie. How to Decide: Simple Tools for Making Better Choices. Penguin Publishing Group, 2020. https://www.annieduke.com/books/.
+2. Sox, Harold C., Michael C. Higgins, Douglas K. Owens, and Gillian Sanders Schmidler. Medical Decision Making. Third edition. John Wiley & Sons, Inc, 2024. https://doi.org/10.1002/9781119627876.
+3. Hunink, M. G. Myriam. Decision Making in Health and Medicine. 2nd ed. With Milton C. Weinstein, Eve Wittenberg, Michael F. Drummond, Joseph S. Pliskin, John B. Wong, and Paul Glasziou. Cambridge University Press, 2014. https://doi.org/10.1017/CBO9781139506779.
+4. Briggs, Andrew Harvey, Karl Claxton, and Mark Sculpher. Decision Modelling for Health Economic Evaluation. Repr. [d. korr. Ausg. von 2007]. Handbooks in Health Economic Evaluation Series. Oxford Univ. Press, 2011.
+5. Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025.
+
 ## Footnotes
 [^1]: Weinstein, Milton C., and Harvey V. Fineberg. _Clinical Decision Analysis_. Saunders, 1980.
 [^2]: Duke, Annie. _How to Decide: Simple Tools for Making Better Choices_. Penguin Publishing Group, 2020. https://www.annieduke.com/books/.
