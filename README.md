@@ -13,7 +13,7 @@ In spite of its importance, decision quality is rarely formally taught. This is 
 
 For public health, Decision Intelligence 4 Health (DI4H) has
 - 4 dimensions (decision quality; strategic execution; continuous improvement; and ethics, science, and technology)
-- 4 constraint types (values, information, time, and resources),
+- 4 constraint types (information, values, time, and resources),
 - 4 competency domains
     - Recognizing and resisting cognitive biases
     - Valuing and applying rationality
