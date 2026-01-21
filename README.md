@@ -15,15 +15,15 @@ For public health, Decision Intelligence 4 Health (DI4H) has
 - 4 dimensions (decision quality; strategic execution; continuous improvement; and ethics, science, and technology)
 - 4 constraint types (information, values, time, and resources),
 - 4 competency domains
-    - Recognizing and resisting cognitive biases
-    - Valuing and applying rationality
-    - Thinking probabilistically
-    - Structuring decisions
-- 4 DEEP decision challenges.
-  - Decision making under uncertainty (information, data, knowledge, future)
-  - Ethical decision making (values, moral trade-offs, benefits outweigh risks)
-  - Emergency and crisis decision making (time constraints with high stakes)
-  - Priority setting and resource allocation (resource investment trade-offs)
+    - Recognizing and resisting **cognitive biases**
+    - Valuing and applying **rationality**
+    - Thinking **probabilistically**
+    - **Structuring** decisions
+- 4 DEEP decision challenges.**
+  - **D**ecision making under uncertainty (**information**, data, knowledge, future)
+  - **E**thical decision making (**values**, moral trade-offs, benefits outweigh risks)
+  - **E**mergency and crisis decision making (**time** constraints with high stakes)
+  - **P**riority setting and resource allocation (**resource** investment trade-offs)
 
 To learn more visit: TEAM Public Health
 - https://teampublichealth.substack.com/t/decisive 
@@ -44,16 +44,17 @@ Source: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, 
 
 For background, see: Tomás Aragón. "Bayes' Theorem and Decision Analysis for Mortals: Transforming Data into Information, Knowledge, and Wisdom - Part 3." TEAM Public Health, January 15, 2016. https://teampublichealth.substack.com/p/bayes-theorem-and-decision-analysis.
 
-- Decision analysis using a decision tree. [Chapter 2: R Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_R.ipynb)   
-- Decision analysis using an influence diagram. [Chapter 2: Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_Julia.ipynb) - DRAFT  
+- Decision analysis using a decision tree: [R Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_R.ipynb)   
+- Decision analysis using an influence diagram: [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_Julia.ipynb) - DRAFT  
 
 
 ### Elementary decision tree (Evans 1997)
-Sources: 
-- Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.
-- Briggs, Andrew Harvey, Karl Claxton, and Mark Sculpher. Decision Modelling for Health Economic Evaluation. Repr. [d. korr. Ausg. von 2007]. Handbooks in Health Economic Evaluation Series. Oxford Univ. Press, 2011.
-
 We will replicate the decision analysis from this `rdecision` R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html 
+
+Source: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.
+
+- Decision analysis using a decision tree: R Jupyter Notebook - pending
+- Decision analysis using an influence diagram: Julia Jupyter Notebook - pending
 
 ### A Primer on Bayesian Decision Analysis (Neapolitan 2016)
 Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. https://doi.org/10.1097/TP.0000000000001145.
