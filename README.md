@@ -42,8 +42,8 @@ Decision professionals tackle and manage two dimensions of decision competence: 
 ### Decision Analysis chapters 2 and 9 (Petitti 2000)
 Source: Petitti, Diana B. Meta-Analysis, Decision Analysis, and Cost-Effectiveness Analysis: Methods for Quantitative Synthesis in Medicine. 2nd ed. Monographs in Epidemiology and Biostatistics, v. 31. Oxford University Press, 2000. https://doi.org/10.1093/acprof:oso/9780195133646.001.0001.
 
-- [Chapter 2 Jupyter R Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_R.ipynb)   
-- [Chapter 2 Jupyter Julia Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_Julia.ipynb) - DRAFT  
+- [Chapter 2: R Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_R.ipynb)   
+- [Chapter 2: Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_Julia.ipynb) - DRAFT  
 
 ### A Primer on Bayesian Decision Analysis (Neapolitan 2016)
 Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. https://doi.org/10.1097/TP.0000000000001145.
