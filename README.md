@@ -44,8 +44,10 @@ Source: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, 
 
 For background, see: Tomás Aragón. "Bayes' Theorem and Decision Analysis for Mortals: Transforming Data into Information, Knowledge, and Wisdom - Part 3." TEAM Public Health, January 15, 2016. https://teampublichealth.substack.com/p/bayes-theorem-and-decision-analysis.
 
-- Decision analysis using a decision tree: [R Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_R.ipynb)   
-- Decision analysis using an influence diagram: [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_Julia.ipynb) - DRAFT  
+- Decision analysis using a decision tree (rdecision): [R Jupyter Notebook (Part 1)](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_R_rdecision_part1.ipynb)  
+- Decision analysis using a decision tree (rdecision): [R Jupyter Notebook (Part 2)](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_R_rdecision_part2.ipynb)   
+- Decision analysis using influence diagrams (DecisionProgramming.jl): [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_Julia_DecisionProgramming-jl.ipynb)
+- Decision analysis using agent-based modeling (Agents.jl): [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_Julia_Agents-jl.ipynb)
 
 
 ### Elementary decision tree (Evans 1997)
@@ -60,7 +62,12 @@ Source: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evalua
 Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. https://doi.org/10.1097/TP.0000000000001145.
 
 
-## Selected readings
+## Selected resources
+
+### Software packages
+1. R: `rdecision` package: https://cran.r-project.org/web/packages/rdecision/index.html
+2. Julia: `DecisionProgramming.jl` package: https://gamma-opt.github.io/DecisionProgramming.jl/dev/  
+3. Julia: `Agents.jl` package: https://juliadynamics.github.io/Agents.jl/stable/
 
 ### Primer on Medical Decision Analysis (5 part series)
 1. Detsky, A. S., G. Naglie, M. D. Krahn, D. Naimark, and D. A. Redelmeier. “Primer on Medical Decision Analysis: Part 1--Getting Started.” Medical Decision Making: An International Journal of the Society for Medical Decision Making 17, no. 2 (1997): 123–25. https://doi.org/10.1177/0272989X9701700201.
