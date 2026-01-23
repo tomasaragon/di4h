@@ -32,7 +32,7 @@ To learn more visit: TEAM Public Health
 Decision professionals tackle and manage two dimensions of decision competence: organizational complexity and analytical complexity (Figure 1). On this page we are focus on decision analysis using popular data science programming languages (Julia, Python, and R).
 
 <figure>
-<img src="https://github.com/tomasaragon/di4h/blob/main/images/di_decision_competence_complexity.png" width="680" alt="Decision Intelligence 4 Health framework"/>
+<img src="https://github.com/tomasaragon/di4h/blob/main/img/di_decision_competence_complexity.png" width="680" alt="Decision Intelligence 4 Health framework"/>
 <figcaption>Figure 1: Two dimension of decision competence</figcaption>
 </figure>
 
@@ -44,10 +44,10 @@ Source: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, 
 
 For background, see: Tomás Aragón. "Bayes' Theorem and Decision Analysis for Mortals: Transforming Data into Information, Knowledge, and Wisdom - Part 3." TEAM Public Health, January 15, 2016. https://teampublichealth.substack.com/p/bayes-theorem-and-decision-analysis.
 
-- DA using a decision tree (rdecision): [R Jupyter Notebook (Part 1)](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_R_rdecision_part1.ipynb)  
-- DA using a decision tree (rdecision): [R Jupyter Notebook (Part 2)](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_R_rdecision_part2.ipynb)   
-- DA using influence diagrams (DecisionProgramming.jl): [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_Julia_DecisionProgramming-jl.ipynb)
-- DA using agent-based modeling (Agents.jl): [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/Petitti_2000_2e_ch02_Julia_Agents-jl.ipynb)
+- DA using a decision tree (rdecision): [R Jupyter Notebook (Part 1)](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/NB_R_rdecision_part1.ipynb)  
+- DA using a decision tree (rdecision): [R Jupyter Notebook (Part 2)](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/NB_R_rdecision_part2.ipynb)   
+- DA using influence diagrams (DecisionProgramming.jl): [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/NB_Julia_DecisionProgramming-jl.ipynb)
+- DA using agent-based modeling (Agents.jl): [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/notebooks/Petitti_2000_2e_ch02/NB_Julia_Agents-jl.ipynb)
 
 
 ### Elementary decision tree (Evans 1997)
@@ -95,7 +95,7 @@ Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “
 ## Appendix
 Figure depicts the DQ framework for Decision Intelligence 4 Health.
 
-<img src="https://github.com/tomasaragon/di4h/blob/main/images/img_di4health_dq_light2.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
+<img src="https://github.com/tomasaragon/di4h/blob/main/img/img_di4health_dq_light2.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
 
 ## Footnotes
 [^1]: Weinstein, Milton C., and Harvey V. Fineberg. _Clinical Decision Analysis_. Saunders, 1980.
