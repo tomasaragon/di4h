@@ -52,10 +52,10 @@ Source: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, 
 
 For background, see: Tomás Aragón. "Bayes' Theorem and Decision Analysis for Mortals: Transforming Data into Information, Knowledge, and Wisdom - Part 3." TEAM Public Health, January 15, 2016. https://teampublichealth.substack.com/p/bayes-theorem-and-decision-analysis.
 
-- DA using a decision tree (rdecision): [R Jupyter Notebook (Part 1)](https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_R_rdecision_part1.ipynb)  
-- DA using a decision tree (rdecision): [R Jupyter Notebook (Part 2)](https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_R_rdecision_part2.ipynb)   
-- DA using influence diagrams (DecisionProgramming.jl): [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_Julia_DecisionProgramming-jl.ipynb)
-- DA using agent-based modeling (Agents.jl): [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_Julia_Agents-jl.ipynb)
+- DA using a decision tree (`rdecision`): [R Jupyter Notebook (Part 1)](https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_R_rdecision_part1.ipynb)  
+- DA using a decision tree (`rdecision`): [R Jupyter Notebook (Part 2)](https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_R_rdecision_part2.ipynb)   
+- DA using influence diagrams (`DecisionProgramming.jl`): [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_Julia_DecisionProgramming-jl.ipynb)
+- DA using agent-based modeling (`Agents.jl`): [Julia Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_Julia_Agents-jl.ipynb)
 
 ### Elementary decision tree (Evans 1997)
 We will replicate the decision analysis from this `rdecision` R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html 
