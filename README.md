@@ -22,7 +22,7 @@ For public health, Decision Intelligence 4 Health (DI4H) has
   2. values
   3. time
   4. resources
-- 4 **competency domains**:
+- 4 **competency domains**:[^Alliance]
   1. Recognizing and resisting **cognitive biases**
   2. Valuing and applying **rationality**
   3. Thinking **probabilistically**
@@ -41,7 +41,8 @@ Decision professionals tackle and manage two dimensions of decision competence: 
 
 <figure>
 <img src="https://github.com/tomasaragon/di4h/blob/main/img/di_decision_competence_complexity.png" width="680" alt="Decision Intelligence 4 Health framework"/>
-<figcaption>Figure 1: Two dimension of decision competence</figcaption>
+<figcaption>Figure 1: Two dimension of decision competence (Source: Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025.
+)</figcaption>
 </figure>
 
 
@@ -107,3 +108,5 @@ Figure depicts the DQ framework for Decision Intelligence 4 Health.
 ## Footnotes
 [^1]: Weinstein, Milton C., and Harvey V. Fineberg. _Clinical Decision Analysis_. Saunders, 1980.
 [^2]: Duke, Annie. _How to Decide: Simple Tools for Making Better Choices_. Penguin Publishing Group, 2020. https://www.annieduke.com/books/.
+[^Alliance]: Alliance for Decision Education. https://alliancefordecisioneducation.org/.
+
