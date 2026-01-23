@@ -12,24 +12,32 @@ Embedded in all journeys (life, learning, strategy, innovation, etc.) are the ch
 In spite of its importance, decision quality is rarely formally taught. This is a shame! Some of reasons include the complex, trans-disciplinary nature of descriptive and normative decision theories.
 
 For public health, Decision Intelligence 4 Health (DI4H) has
-- 4 dimensions (decision quality; strategic execution; continuous improvement; and ethics, science, and technology)
-- 4 constraint types (information, values, time, and resources),
-- 4 competency domains
-    - Recognizing and resisting **cognitive biases**
-    - Valuing and applying **rationality**
-    - Thinking **probabilistically**
-    - **Structuring** decisions
-- 4 DEEP decision challenges.**
-  - **D**ecision making under uncertainty (**information**, data, knowledge, future)
-  - **E**thical decision making (**values**, moral trade-offs, benefits outweigh risks)
-  - **E**mergency and crisis decision making (**time** constraints with high stakes)
-  - **P**riority setting and resource allocation (**resource** investment trade-offs)
+- 4 **dimensions**: 
+  1. decision quality
+  2. strategic execution
+  3. continuous improvement
+  4. ethics, science, and technology
+- 4 **constraint types**: 
+  1. information
+  2. values
+  3. time
+  4. resources
+- 4 **competency domains**:
+  1. Recognizing and resisting **cognitive biases**
+  2. Valuing and applying **rationality**
+  3. Thinking **probabilistically**
+  4. **Structuring** decisions
+- 4 **DEEP** decision challenges: 
+  1. **D**ecision making under uncertainty (**information**, data, knowledge, future)
+  2. **E**thical decision making (**values**, moral trade-offs, benefits outweigh risks)
+  3. **E**mergency and crisis decision making (**time** constraints with high stakes)
+  4. **P**riority setting and resource allocation (**resource** investment trade-offs)
 
 To learn more visit: TEAM Public Health
 - https://teampublichealth.substack.com/t/decisive 
 - https://teampublichealth.substack.com/p/decision-intelligence
 
-Decision professionals tackle and manage two dimensions of decision competence: organizational complexity and analytical complexity (Figure 1). On this page we are focus on decision analysis using popular data science programming languages (Julia, Python, and R).
+Decision professionals tackle and manage two dimensions of decision competence: organizational complexity and analytical complexity (Figure 1). On this page we focus on decision analysis using popular data science programming languages such as Julia, Python, and R.
 
 <figure>
 <img src="https://github.com/tomasaragon/di4h/blob/main/img/di_decision_competence_complexity.png" width="680" alt="Decision Intelligence 4 Health framework"/>
