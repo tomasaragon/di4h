@@ -103,7 +103,7 @@ Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “
 ## Appendix
 Figure depicts the DQ framework for Decision Intelligence 4 Health.
 
-<img src="https://github.com/tomasaragon/di4h/blob/main/img/img_di4health_dq_light2.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
+<img src="https://github.com/tomasaragon/di4h/blob/main/img/img_di4health_dq.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
 
 ## Footnotes
 [^1]: Weinstein, Milton C., and Harvey V. Fineberg. _Clinical Decision Analysis_. Saunders, 1980.
