@@ -46,7 +46,7 @@ Decision professionals tackle and manage two dimensions of decision competence: 
 </figure>
 
 
-## Coding examples
+## Coding examples for decision analysis
 
 ### Decision Analysis - Chapter 2 (Petitti 2000)
 Source: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, Decision Analysis, and Cost-Effectiveness Analysis: Methods for Quantitative Synthesis in Medicine. 2nd ed. Monographs in Epidemiology and Biostatistics, v. 31. Oxford University Press, 2000. https://doi.org/10.1093/acprof:oso/9780195133646.001.0001.
