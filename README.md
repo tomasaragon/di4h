@@ -63,7 +63,7 @@ We will replicate the decision analysis from this `rdecision` R package vignette
 
 Source: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.
 
-- Decision analysis using a decision tree: R Jupyter Notebook - pending
+- DA using a decision tree (`rdecision`): [R Jupyter Notebook](https://github.com/tomasaragon/di4h/blob/main/nb/Evans1997/NB_R_rdecision.ipynb)  
 - Decision analysis using an influence diagram: Julia Jupyter Notebook - pending
 
 ### A Primer on Bayesian Decision Analysis (Neapolitan 2016)
