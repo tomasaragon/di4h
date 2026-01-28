@@ -11,28 +11,6 @@ Embedded in all journeys (life, learning, strategy, innovation, etc.) are the ch
 
 In spite of its importance, decision quality is rarely formally taught. This is a shame! Some of reasons include the complex, trans-disciplinary nature of descriptive and normative decision theories.
 
-For public health, Decision Intelligence 4 Health (DI4H) has
-- 4 **dimensions**: 
-  1. decision quality
-  2. strategic execution
-  3. continuous improvement
-  4. ethics, science, and technology
-- 4 **constraint types**: 
-  1. information
-  2. values
-  3. time
-  4. resources
-- 4 **competency domains**:[^Alliance]
-  1. Recognizing and resisting **cognitive biases**
-  2. Valuing and applying **rationality**
-  3. Thinking **probabilistically**
-  4. **Structuring** decisions
-- 4 **DEEP** decision challenges: 
-  1. **D**ecision making under uncertainty (**information**, data, knowledge, future)
-  2. **E**thical decision making (**values**, moral trade-offs, benefits outweigh risks)
-  3. **E**mergency and crisis decision making (**time** constraints with high stakes)
-  4. **P**riority setting and resource allocation (**resource** investment trade-offs)
-
 To learn more visit: TEAM Public Health
 - https://teampublichealth.substack.com/t/decisive 
 - https://teampublichealth.substack.com/p/decision-intelligence
@@ -101,6 +79,29 @@ Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “
 5. Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025.
 
 ## Appendix
+
+For public health, Decision Intelligence 4 Health (DI4H) has
+- 4 **dimensions**: 
+  1. decision quality
+  2. strategic execution
+  3. continuous improvement
+  4. ethics, science, and technology
+- 4 **constraint types**: 
+  1. information
+  2. values
+  3. time
+  4. resources
+- 4 **competency domains**:[^Alliance]
+  1. Recognizing and resisting **cognitive biases**
+  2. Valuing and applying **rationality**
+  3. Thinking **probabilistically**
+  4. **Structuring** decisions
+- 4 **DEEP** decision challenges: 
+  1. **D**ecision making under uncertainty (**information**, data, knowledge, future)
+  2. **E**thical decision making (**values**, moral trade-offs, benefits outweigh risks)
+  3. **E**mergency and crisis decision making (**time** constraints with high stakes)
+  4. **P**riority setting and resource allocation (**resource** investment trade-offs)
+
 Figure depicts the DQ framework for Decision Intelligence 4 Health.
 
 <img src="https://github.com/tomasaragon/di4h/blob/main/img/img_di4health_dq.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
