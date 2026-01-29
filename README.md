@@ -80,29 +80,13 @@ Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “
 
 ## Appendix
 
-For public health, Decision Intelligence 4 Health (DI4H) has
-- 4 **dimensions**: 
-  1. decision quality
-  2. strategic execution
-  3. continuous improvement
-  4. ethics, science, and technology
-- 4 **constraint types**: 
-  1. information
-  2. values
-  3. time
-  4. resources
-- 4 **competency domains**:[^Alliance]
-  1. Recognizing and resisting **cognitive biases**
-  2. Valuing and applying **rationality**
-  3. Thinking **probabilistically**
-  4. **Structuring** decisions
-- 4 **DEEP** decision challenges: 
+Artificial intelligence will make important contributions to public health decision making, but humans will always need to be "in the loop" as decision architects. In health and human services, we face 4 **DEEP** decision challenges:
   1. **D**ecision making under uncertainty (**information**, data, knowledge, future)
   2. **E**thical decision making (**values**, moral trade-offs, benefits outweigh risks)
   3. **E**mergency and crisis decision making (**time** constraints with high stakes)
   4. **P**riority setting and resource allocation (**resource** investment trade-offs)
 
-Figure depicts the DQ framework for Decision Intelligence 4 Health.
+Figure depicts the Decision Intelligence 4 Health framework, tools, and decision quality elements.
 
 <img src="https://github.com/tomasaragon/di4h/blob/main/img/img_di4health_dq.png" width="100%" alt="Decision Intelligence 4 Health framework"/>
 
