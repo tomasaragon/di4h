@@ -11,7 +11,7 @@ Embedded in all journeys (life, learning, strategy, innovation, etc.) are the ch
 
 In spite of its importance, decision quality is rarely formally taught. This is a shame! Some of reasons include the complex, trans-disciplinary nature of descriptive and normative decision theories.
 
-To learn more visit: TEAM Public Health
+To learn more visit: TEAM Public Health 
 - https://teampublichealth.substack.com/t/decisive 
 - https://teampublichealth.substack.com/p/decision-intelligence
 
